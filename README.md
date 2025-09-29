@@ -6,11 +6,8 @@ I’ve started this repo as part of my daily Java practice and revision journey.
 📌 What you’ll find here:
 
 Daily Java practice codes 📝
-
 Core Java concepts with examples ⚡
-
 Coding challenges & problem-solving 💡
-
 Clean, beginner-friendly explanations 🌱
 
 🎯 Goal
