@@ -19,4 +19,4 @@ To strengthen my Java fundamentals and stay consistent with coding practice whil
 
 🔗 Daily Updates
 
-I’ll also be posting my daily learnings and code snippets on LinkedIn to track progress and connect with other learners
+I’ll also be posting my daily learnings and code snippets on LinkedIn to track progress and connect with other learners.
